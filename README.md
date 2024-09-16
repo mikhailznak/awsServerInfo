@@ -72,3 +72,7 @@ self.service_map = {
 ```
 
 5. Finally just need to implement `get_<new-service>_info` function inside `aws_service_info.py`
+
+### Terraform Example ###
+
+Just a small terraform script to demonstrate basic setup
